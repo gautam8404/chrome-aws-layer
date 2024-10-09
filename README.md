@@ -6,7 +6,7 @@ Upload the layer to your AWS account and add it to your lambda function.
 After adding check for functions in setup.py to setup chromium and libs on runtime
 
 ## Its not working anymore, how to fix it?
-Go through pain and these steps:
+Go through these steps:
 
 #### Download chromium headless binary, you can do that using npx
 ```bash 
